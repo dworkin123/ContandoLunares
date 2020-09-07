@@ -1,0 +1,18 @@
+/*{
+  "baseDatos": [
+    {
+      "username": 0,
+      "password": "hacha",
+      "gender": 45,
+      "age": 4,
+      "nombreSprite":  "hacha.png"
+    },
+    {
+      "username": 1,
+      "password": "12",
+      "gender": 32,
+      "age": 45,
+      "nombreSprite": "espadon.png"
+    }
+  ]
+}*/
